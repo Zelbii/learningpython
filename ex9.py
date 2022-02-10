@@ -1,0 +1,24 @@
+n1=int(input('insira um número para fazer a tabuada '))
+n2=n1*0
+n3=n1*1
+n4=n1*2
+n5=n1*3
+n6=n1*4
+n7=n1*5
+n8=n1*6
+n9=n1*7
+n10=n1*8
+n11=n1*9
+n12=n1*10
+
+print('{:2}x0={}'.format(n1,n2))
+print('{:2}x1={}'.format(n1,n3))
+print('{:2}x2={}'.format(n1,n4))
+print('{:2}x3={}'.format(n1,n5))
+print('{:2}x4={}'.format(n1,n6))
+print('{:2}x5={}'.format(n1,n7))
+print('{:2}x6={}'.format(n1,n8))
+print('{:2}x7={}'.format(n1,n9))
+print('{:2}x8={}'.format(n1,n10))
+print('{:2}x9={}'.format(n1,n11))
+print('{:2}x10={}'.format(n1,n12))
