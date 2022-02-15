@@ -1,6 +1,2 @@
 # learningpython
-this is my study repository, python
-#crie um programa que escreva olá mundo
-
-m1='olá mundo'
-print(m1)
+# this is my first repository, my jorney start with python!
