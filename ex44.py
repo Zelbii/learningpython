@@ -17,3 +17,5 @@ elif n2==4:
     parcela=n1*1.20/n3
     preço=n1*1.20
     print('A sua compra que inicialmente era de {} pagando em {} as parcelas finais serão de {} totalizando o valor de {}'.format(n1,n3,parcela,preço))
+else:
+    print('opção inválida, escolha um número de 1 a 4 ')
