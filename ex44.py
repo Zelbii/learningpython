@@ -8,7 +8,7 @@ if n2==1:
     print('a sua compra que inicialmente era de {} teve um desconto 10% e o valor final é de {:.2f}'.format(n1,compra))
 elif n2==2:
     compra=n1*0.95
-    print('a sua compra que inicialmente era de {} tede um desconto de 5% e o valor final é de {:.2f}'.format(n1, compra))
+    print('a sua compra que inicialmente era de {} teve um desconto de 5% e o valor final é de {:.2f}'.format(n1, compra))
 elif n2==3:
     parcela=n1/2
     print('A sua compra que inicialmente era de {} parcelando em 2x o valor da parcela é de {}'.format(n1,parcela))
