@@ -1,5 +1,5 @@
-n1=int(input('digite o primeiro númemero '))
-n2=int(input('digite o segundo númemero '))
+n1=int(input('digite o primeiro número '))
+n2=int(input('digite o segundo número '))
 if n1>n2:
     print('o Primeiro valor é maior')
 elif n2>n1:
