@@ -5,7 +5,7 @@ print('oi')
 print('oi')
 print('oi')
 
-for c in range(0,6): #no piton ele vai contar do 1 até o 5 e no 6 ele para, por isso que colocamos o 0, para fazer do 5 até o 5 contando 6 vezes de OI
+for c in range(0,6): #no python ele vai contar do 1 até o 5 e no 6 ele para, por isso que colocamos o 0, para fazer do 5 até o 5 contando 6 vezes de OI
     print('oi')
 
 print('fim')#vai escrever oi 6 vezes e depois dar print 'FIM
