@@ -2,7 +2,7 @@
 from tkinter import N
 
 
-'''for c in range(1,10):
+for c in range(1,10):
     print(c)
 print('fim')
 
@@ -10,22 +10,22 @@ c=1
 while c <10:
     print(c)
     c=c+1
-print('fim')'''
+print('fim')
 
 #-------------------------------------------------------------------
 
 #While serve para essas questões, quando não sabemos quando será necessário para a repetição, nesse caso, 
 #quando digitarmos 0, o programa para, caso contrário, não.
-'''n=1
+n=1
 while n !=0: # n !=0 é a flag, o ponto te paragem.
     n=int(input('Digite um valor: '))
-print('Fim')'''
+print('Fim')
 
-'''n='S'
+n='S'
 while n =='S':
     s=int(input('Digite um número: '))
     n=str(input('Quer continuar? [S/N]')).upper()
-print('Fim')'''
+print('Fim')
 
 n=1
 par=impar=0
