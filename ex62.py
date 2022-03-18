@@ -1,5 +1,5 @@
 print('Gerador de PA')
-print('_.-.'*19)
+print('_.-.'*29)
 n1=int(input('Primeiro termo: '))
 razão=int(input('Razão da PA: '))
 termo=n1
