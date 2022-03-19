@@ -1,4 +1,4 @@
-sexo=str(input('Digite o seu Gênero [M/F]')).strip().upper()[0]
-while sexo not in'MmFm':
-    sexo=str(input('Digite um gênero válido, tente outra vez [M/F] ')).strip().upper() [0]
+sexo=str(input('Digite o seu Gênero [M/F]')).strip().upper()[0] #O Upper serve para guardar na variavel sexo em maiuscula, você digitando em maiuscula ou não/ aquele [0] é pra validar apenas a a primeira letra (posso digitar masculo e mesmo assim é valido pq a primeira letra é m) 
+while sexo not in'MmFm':#não precisava ter esse m e f minusculo pq tenho la em cima o upper
+    sexo=str(input('Digite um gênero válido, tente outra vez [M/F] ')).strip().upper() [0]#O Upper serve para guardar na variavel sexo em maiuscula, você digitando em maiuscula ou não/ aquele [0] é pra validar apenas a a primeira letra (posso digitar masculo e mesmo assim é valido pq a primeira letra é m)
 print('gênero registrado {} com sucesso'.format(sexo))
